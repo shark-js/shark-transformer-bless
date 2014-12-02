@@ -27,15 +27,14 @@
     "co-mocha": "^1.1.0",
     "extsprintf": "^1.2.1",
     "mocha": "^2.0.1",
-    "shark-logger": "git://github.com/shark-js/shark-logger",
-    "shark-tree": "git://github.com/shark-js/shark-tree"
+    "shark-logger": "*"
   },
   "dependencies": {
     "bless4": "^4.10.1",
     "co": "^4.0.0",
     "node.extend": "^1.1.3",
-    "shark-transformer": "git://github.com/shark-js/shark-transformer",
-    "shark-tree": "git://github.com/shark-js/shark-tree",
+    "shark-transformer": "*",
+    "shark-tree": "*",
     "verror": "^1.6.0"
   }
 }
