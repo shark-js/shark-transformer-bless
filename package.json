@@ -1,6 +1,6 @@
 {
   "name": "shark-transformer-bless",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "shark-transformer-bless",
   "main": "lib/transformer-bless.js",
   "scripts": {
